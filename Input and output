@@ -1,0 +1,16 @@
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+
+int main() {
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */
+    int a,b,c,x1;
+    cin>>a>>b>>c;
+    x1=a+b+c;
+    cout<<x1<<endl;   
+    return 0;
+}
